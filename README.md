@@ -1,2 +1,2 @@
 # aula_bootstrap
-Utilizando bootstrap
+Esse repositório é um exemplo de aplicação do framework bootstrap
